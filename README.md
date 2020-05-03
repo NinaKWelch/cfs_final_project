@@ -1,1 +1,1 @@
-# Code First: Girls Final Projectt
+# Code First: Girls Front End Final Project
