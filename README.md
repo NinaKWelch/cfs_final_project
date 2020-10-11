@@ -1,1 +1,3 @@
-# Code First: Girls Front End Final Project Starter Template
+# Gode First: Girls Front-end Curriculum
+
+## Project Starter Template
